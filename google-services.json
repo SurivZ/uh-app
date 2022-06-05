@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853145379745",
+    "project_id": "uh-app-9c7f6",
+    "storage_bucket": "uh-app-9c7f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853145379745:android:2b6d4e684d83a9a606e1e0",
+        "android_client_info": {
+          "package_name": "es.dev.uh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853145379745-pus6dm1vftb34arq3b0nkf38a9rsh5k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUbU114br0fvCiYS7NzLB0xVD-bpovbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853145379745-pus6dm1vftb34arq3b0nkf38a9rsh5k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
